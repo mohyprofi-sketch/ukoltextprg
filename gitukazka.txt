@@ -1,3 +1,4 @@
 1. Linux
 2. Python
 3. Ahoj kosta
+4.OOP
