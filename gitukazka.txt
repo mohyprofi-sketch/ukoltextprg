@@ -1,5 +1,9 @@
 1. Linux
 2. Python
 3. Ahoj kosta
+4. OOP
 5. Github
 6. podmínky
+7. Ahoja
+8. pygame
+
