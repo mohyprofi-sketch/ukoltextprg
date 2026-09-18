@@ -1,3 +1,5 @@
 1. Linux
 2. Python
 3. Ahoj kosta
+5. Github
+6. podmínky
